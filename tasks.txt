@@ -1,3 +1,4 @@
+
 1. Date : 01/08/2023, TUE
     React
         - Read React Documentation
@@ -7,6 +8,7 @@
         - Redux counter demo
     Task in Progress :
         - Redux counter demo with Typescript
+
 
 2. Date : 02/08/2023, WED
     React
@@ -22,6 +24,7 @@
         - ToDo list Edit & Delete Functionality.
         - other remaining Typescript functionalities.
            
+
 3. Date : 03/08/2023, THU
     React
         - Typescript.
@@ -34,6 +37,7 @@
         - App demo using pure Redux.
     Task in Progress :
         - Working on Redux Toolkit.
+
 
 4. Date : 03/08/2023, FRI
     Redux-Toolkit (RTK)
@@ -56,6 +60,7 @@
     Task in Progress :
         - Doing all the above tasks with Typescript.
 
+
 5. Date : 07/08/2023, MON
     Task Done :
         - person List demo using RTK. (https://github.com/ValtureTecocraft/project-demo/tree/Person-List)
@@ -64,6 +69,7 @@
     Task in Progress :
         - men-shop home page, product page, cart page, wishlist page.
         - privateRoute, etc
+
 
 6. Date : 08/08/2023, TUE
     Other :
@@ -82,6 +88,7 @@
     Task in Progress :
         - MUI Custom Theme
     
+
 7. Date : 09/08/2023, WED
     Other :
         - Material UI : 
@@ -98,6 +105,7 @@
             - Map, Filter, reducer, find, forEach, Switch case
     Task in Progress :
         - Form validation using Formik & yup
+
 
 8. Date : 10/08/2023, THU
     Other :
@@ -119,6 +127,7 @@
     Task in Progress :
         - axios interceptors
 
+
 9. Date : 11/08/2023, FRI
     Other :
         - react-hook-form :
@@ -136,6 +145,7 @@
         - counter app with useContext & useReducer
     Task in Progress :
         - other hooks implementation
+
 
 10. Date : 14/08/2023, MON
     Other :
@@ -156,17 +166,22 @@
     Task in Progress :
         - Custom Query Hook
 
+
 11. Date : 15/08/2023, TUE
     Leave
+
 
 12. Date : 16/08/2023, WED
     Leave
 
+
 13. Date : 17/08/2023, THU
     Leave
 
+
 14. Date : 18/08/2023, FRI
     Leave
+
 
 15. Date : 21/08/2023, MON
     Other :
@@ -183,6 +198,7 @@
     Task in Progress :
         - CRUD operations using redux or react hook
 
+
 16. Date : 22/08/2023, TUE
     Other :
         - CRUD Operation :
@@ -198,6 +214,7 @@
         - implementation of CRUD operation
     Task in Progress :
         - e-Commerce demo implementation
+
 
 17. Date : 23/08/2023, WED
     Task Done : 
@@ -216,6 +233,7 @@
             - Sign In with Email and Password.
             - mapping data.
 
+
 18. Date : 24/08/2023, THU
     Task Done : 
         - created Task component
@@ -231,6 +249,7 @@
             - file uploading
             - Hosting
 
+
 19. Date : 25/08/2023, FRI
     Task Done : 
         - Todo app Bug fix : (https://todo-app-firebase-valture.netlify.app/)
@@ -244,6 +263,7 @@
             - signup functionalities (Email & Password, & Google)
     Task in Progress :
         - Login and Home page
+
 
 20. Date : 28/08/2023, MON
     Project name : Chat App
@@ -262,6 +282,7 @@
     Task in Progress :
         - Project : E-Commerce Demo (https://e-commerce-by-valture.netlify.app/)
 
+
 21. Date : 29/08/2023, TUE
     Project name : Chat App
     Task Done :
@@ -275,6 +296,7 @@
     Task in Progress :
         - Group Chat.
 
+
 22. Date : 31/08/2023, THU
     Project name : Chat App
     Task Done : 
@@ -284,6 +306,7 @@
         - Docs of Firebase.
     Task in Progress :
         - Group Chat
+
 
 23. Date : 01/09/2023, FRI
     Project name : Chat App (https://chat-app-firebase-by-valture.netlify.app/)
@@ -297,6 +320,7 @@
     Task in Progress :
         - Group Chat messages input and display them. 
 
+
 24. Date : 04/09/2023, MON
     Project name : Chat App (https://chat-app-firebase-by-valture.netlify.app/)
     Task Done : (https://github.com/ValtureTecocraft/chat-app)
@@ -308,6 +332,7 @@
         - responsive UI.
     Other : 
         - Docs of Firebase.
+
 
 25. Date : 05/09/2023, TUE
     Project name : E-Commerce Website
@@ -322,6 +347,7 @@
             - Configuration, Customization.
             - Intro to API
 
+
 26. Date : 06/09/2023, WED
     Project name : E-Commerce Website ( https://github.com/ValtureTecocraft/my-e-commerce-app )
     Task Done : 
@@ -333,8 +359,10 @@
         - understanding the file Structure to build project
         - created Reducers with Redux Toolkit for Signup and Login
 
+
 27. Date : 08/09/2023, FRI
     LEAVE
+
 
 28. Date : 11/09/2023, MON
     Project name : E-Commerce Website
@@ -353,6 +381,7 @@
     Task in Progress : 
         - UI of Cart page and wishList page
 
+
 29. Date : 12/09/2023, TUE
     Project name : E-Commerce Website
     Task Done :
@@ -367,6 +396,7 @@
 
     Half day
 
+
 30. Date : 13/09/2023, WED
     Project Name : BeeDee
     Task Done :
@@ -378,6 +408,7 @@
             - Fixed phoneNumber display in validation screen.
     Other : 
         - Exploring React-Native. 
+
 
 31. Date : 14/09/2023, THU
     Project Name : BeeDee
@@ -391,6 +422,7 @@
             - Styling (Inline & StyleSheet API), Multiple Styles ( use styles in Array. ).
             - Layout and Flexbox.
 
+
 32. Date : 15/09/2023, FRI
     Other : 
         - Exploring React-Native :
@@ -399,6 +431,7 @@
             - PokemonCard App 
             - TextInput ( Props, Multiline )
 
+
 33. Date : 18/09/2023, MON
     Task Done :
         - todo App (project setup) : Registration screen
@@ -406,6 +439,7 @@
         - Exploring React-Native :
             - Switch, TextInput ( secureTextEntry ).
             - Login Form, Navigation, route params
+
 
 34. Date : 19/09/2023, TUE
     Project Name : BeeDee
@@ -416,6 +450,7 @@
             - Text Rephrased from Compatible to BDSMTest Compatible
         - BeeDee-293 :
             - Splash Screen Icon and App icon updated ( IOS & Android )
+
 
 35. Date : 20/09/2023, WED
     Project Name : BeeDee
@@ -433,6 +468,7 @@
         - BeeDee-328 :
             - Loading text change while loading Profile.
 
+
 36. Date : 21/09/2023, THU
     Project Name : BeeDee
     Task Done :
@@ -447,11 +483,13 @@
         - BeeDee-308 :
             - Hide 0% complete while loading profile menu.
 
+
 37. Date : 22/09/2023, FRI
     Project Name : BeeDee
     Task Done :
         - BeeDee-117 :
             - Add screen after enabling notification that asks if they want to start swiping or complete profile.
+
 
 38. Date : 25/09/2023, MON
     Project Name : BeeDee
@@ -473,6 +511,7 @@
         - BeeDee-345 :
             - make country code clickable in signup/login page.
 
+
 39. Date : 26/09/2023, TUE
     Project Name : BeeDee
     Task Done :
@@ -484,6 +523,7 @@
         - increased touchable area for checkbox while register and edit profile.
     - BEEDEE-321 : 
         - Allowing user to set pronouns to no-pronouns.
+
 
 40. Date : 27/09/2023, WED
     Project Name : BeeDee
@@ -511,6 +551,7 @@
             - “Preferences” to “Search Preferences”
         BEEDEE-387 : 335-follow-up load correct URL in web-view
 
+
 41. Date : 29/09/2023, FRI
     Project Name : BeeDee
 
@@ -525,15 +566,113 @@
         BEEDEE-388 : Should pickup new test ID from web-view ( added dependency to useEffect )
         BEEDEE-404 : removed T&C from buy premium screen
 
+
 42. Date : 02/10/2023, MON
     Project Name : BeeDee
 
-    Fixed git comment 
+    Fixed git comment : 
         BEEDEE-117 ( comment ) : handle navigation from profileCompletion to discovery Tab & profile Tab ( bottomNavigation ).
+
+    Other : 
+        BEEDEE-383 : tried to catch error causing discovery load twice
+        BEEDEE-381 : tried to catch the error
+        BEEDEE-380 : asked client the requirement
+
+
+43. Date : 03/10/2023, TUE
+    Project Name : BeeDee
+
+    Completed Task :
+        BEEDEE-245 : added button to delete swipes is there are no more users left to discover.
+        BEEDEE-424 : capitalisation of Beedee to BeeDee in profile tab & icon in settings tab
+
+    Other : 
+        BEEDEE-384 : debugged the code and found that region was set according to user current location. Client wants to set region according to country selected while signing up.
+
+
+44. Date : 04/10/2023, WED
+    Project Name : BeeDee
+
+    Fixed git comment : 
+        BEEDEE-424 ( comment ) : removed unused old bdlogo image.
+        BEEDEE-245 ( comment ) : 
+            - removed black background from loader in home screen as client requested.
+            - added 2nd loader for delete swipes.
+
+    Completed Task :
+        BEEDEE-440 : 
+            - delete account functionality not working properly.
+            - loader was not visible due to Modal.
+        BEEDEE-398 : Changed request parameters sent to delete-image call in EditProfile screen.
+
+    Running Task :
+        BEEDEE-441 : finding the error causing the pronoun to set empty.
+
+    Other : 
+        BEEDEE-336 : checked if the splash screen is applied properly - still not working properly.
+
+
+45. Date : 05/10/2023, THU
+    Project Name : BeeDee
+
+    Fixed git comment : 
+        BEEDEE-398 ( comment ) : 
+            - issue in deleting images because params was an object > array, params object > string.
+            - new new issue were appearing so created new branch and PR.
+        BEEDEE-440 ( comment ) : 
+            - fixed issue with the loader not showing after clicking "yes".
+            - added params that passes the "Reason" to api.
+
+    Completed Task :
+        BEEDEE-121 : Added counter and maxlength in all Input fields.
+
+    Running Task :
+        BEEDEE-383 : finding bug userData is set twice.
+
+
+Please find today's work updates below:
+46. Date : 06/10/2023, FRI
+    Project Name : BeeDee
+
+    Fixed git comment : 
+        BEEDEE-121 ( comment ) : Fixed AddBio and YourBio counter .
+        BEEDEE-398 ( comment ) : made image delete function response regardless of whether the API returned OK or error or empty array.
+        BEEDEE-440 ( comment ) : Checked if the app crashes while deleting account & added toast message for Success and Error.
+
+    Completed Task :
+        BEEDEE- : .
+
+    Running Task :
+        BEEDEE- : .
+
+    Other : 
+        BEEDEE- : .
+
 
 
 
 
 
 Please find today's work updates below:
+45. Date : 04/10/2023, WED
+    Project Name : BeeDee
 
+    Fixed git comment : 
+        BEEDEE- ( comment ) : .
+
+    Completed Task :
+        BEEDEE- : .
+
+    Running Task :
+        BEEDEE- : .
+
+    Other : 
+        BEEDEE- : .
+
+
+
+
+
+
+Query :
+    
