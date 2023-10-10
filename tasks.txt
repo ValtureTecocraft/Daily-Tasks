@@ -630,7 +630,6 @@
         BEEDEE-383 : finding bug userData is set twice.
 
 
-Please find today's work updates below:
 46. Date : 06/10/2023, FRI
     Project Name : BeeDee
 
@@ -639,16 +638,44 @@ Please find today's work updates below:
         BEEDEE-398 ( comment ) : made image delete function response regardless of whether the API returned OK or error or empty array.
         BEEDEE-440 ( comment ) : Checked if the app crashes while deleting account & added toast message for Success and Error.
 
+
+47. Date : 09/10/2023, MON
+    Project Name : BeeDee
+
     Completed Task :
-        BEEDEE- : .
+        BEEDEE-285 : made app version in profile tab dynamic.
+        BEEDEE-458 : made link field accept both http & https.
+        BEEDEE-252 : removed unused images and its imports.
+        BEEDEE-463 : removed verification feature from profile tab and Preferences.
+        BEEDEE-214 : added link to tnc and privacy.
+        BEEDEE-419 : removed camera icon and count of photos.
+        BEEDEE-449 : rephrased all the pronouns.
+        BEEDEE-348 : 
+            - rephrased "BDSMTest Compatible" to "BSDM Test Compatibility:"
+            - made that bar touchable to open BDSM Details screen.
+            - changed the color scheme for BSDm progress bar.
+
+
+Please find today's work updates below:
+48. Date : 10/10/2023, TUE
+    Project Name : BeeDee
+
+    Fixed git comment : 
+        BEEDEE-214 : added webview and changed text ui.
+        BEEDEE-463 : added comment "Commented out for future verification feature, do not remove"
+        BEEDEE-458 : checked if the app crashes while adding link.
+
+    Completed Task :
+        BEEDEE-348 : rephrased "BSDM Test Compatibility: " to "BDSMTest Compatibility: " & removed unused imports.
+        BEEDEE-466 : added formatter to remove leading "0" while entering phoneNumber.
+        BEEDEE-384 : set default units in preference while signup.
+        BEEDEE-468 : applied map fn to display pronouns in profile.
 
     Running Task :
-        BEEDEE- : .
-
-    Other : 
-        BEEDEE- : .
+        BEEDEE-467 : update title showing after clicking on BDSMTest compatibility bar on discover screen.
 
 
+            
 
 
 
