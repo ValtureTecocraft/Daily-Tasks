@@ -656,7 +656,6 @@
             - changed the color scheme for BSDm progress bar.
 
 
-Please find today's work updates below:
 48. Date : 10/10/2023, TUE
     Project Name : BeeDee
 
@@ -675,7 +674,109 @@ Please find today's work updates below:
         BEEDEE-467 : update title showing after clicking on BDSMTest compatibility bar on discover screen.
 
 
+49. Date : 11/10/2023, WED
+    Project Name : BeeDee
+
+    Completed Task :
+        BEEDEE-467 : 
+            - made BDSMTest Details screen title dynamic for test update and clicking through profile.
+            - added text to en.json
+        BEEDEE-224 : changed tips for success to FAQ in settings.
+        BEEDEE-433 : added new loader with label when fetching userDiscoveryData.
+
+    Running Task :
+        BEEDEE-374 : unit conversion.
             
+
+50. Date : 12/10/2023, THU
+    Project Name : BeeDee
+
+    Completed Task :
+        BEEDEE-374 : Use correct units for profiles and conversations.
+        BEEDEE-384 : set default unit preference while signing up.
+        BEEDEE-218 : changed wording and added icons.
+
+    Running Task :
+        BEEDEE-264 : make notification icon large for android.
+
+
+51. Date : 13/10/2023, FRI
+    Project Name : BeeDee
+
+    Fixed git comment : 
+        BEEDEE-384 : Fixed setting default unit.
+
+    Completed Task :
+        BEEDEE-381 : setup new API end-point for resend-code.
+
+
+52. Date : 16/10/2023, MON
+    Project Name : BeeDee
+
+    Running Task :
+        BEEDEE-336 : Integration of React-Native-BootSplash.
+            - Installed React-Native-BootSplash package.
+            - setup assets.
+            - Tried multiple time integrating RNBootSplash.
+            - Tested on different Android version devices.
+
+
+53. Date : 17/10/2023, TUE
+    Project Name : BeeDee
+
+    Completed Task :
+        BEEDEE-336 : 
+            - Integrated React-Native-BootSplash.
+            - Tested on different devices with different versions
+
+    Running Task :
+        BEEDEE-264 : 
+            - Changing and configuring notification icon on Android.
+            - facing issues while sending messages.
+
+
+54. Date : 18/10/2023, WED
+    Project Name : BeeDee
+
+    Completed Task :
+        BEEDEE-264 : 
+            - notification icon fixed.
+            - integrated Notifee for sending notification.
+            - applied logic to show notification while App is in Foreground or Background or Killed.
+            - checked on different android devices.
+
+
+55. Date : 19/10/2023, THU
+    Project Name : BeeDee
+
+    Completed Task :
+        BEEDEE-370 : Minimum birthday currently is 1950, change this to 1920.
+        BEEDEE-138 : 
+            - Created UI to show "App Version Not Supported".
+            - Added new API (/testversion?version=) to check and compare the current app version and Latest version.
+
+    Running Task :
+        BEEDEE- : .
+
+    Other : 
+        BEEDEE- : .
+
+
+Please find today's work updates below:        
+56. Date : 20/10/2023, FRI
+    Project Name : BeeDee
+
+    Running Task :
+        BEEDEE-476 : 
+            - Updated bottomTabNavigator Chat Tab to show "Red Dot" if there are any new Matches or new messages.
+            - Updated the same for Chat conversations.
+            - Tested the new API query parameter provided by client.
+
+    Other : 
+        - Exploring WebSocket (Socket.io).
+
+
+
 
 
 
@@ -685,7 +786,7 @@ Please find today's work updates below:
     Project Name : BeeDee
 
     Fixed git comment : 
-        BEEDEE- ( comment ) : .
+        BEEDEE- : .
 
     Completed Task :
         BEEDEE- : .
