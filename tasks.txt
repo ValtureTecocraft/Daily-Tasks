@@ -1,5 +1,5 @@
-
-1. Date : 01/08/2023, TUE
+1. Please find today's work updates below :
+Date : 01/08/2023, TUE
     React
         - Read React Documentation
         - Redux Documentation
@@ -9,8 +9,8 @@
     Task in Progress :
         - Redux counter demo with Typescript
 
-
-2. Date : 02/08/2023, WED
+2. Please find today's work updates below :
+Date : 02/08/2023, WED
     React
         - Typescript.
         - typescript functional components & Class Components.
@@ -24,8 +24,8 @@
         - ToDo list Edit & Delete Functionality.
         - other remaining Typescript functionalities.
            
-
-3. Date : 03/08/2023, THU
+3. Please find today's work updates below :
+Date : 03/08/2023, THU
     React
         - Typescript.
         - typescript Conditional Rendering.
@@ -38,8 +38,8 @@
     Task in Progress :
         - Working on Redux Toolkit.
 
-
-4. Date : 03/08/2023, FRI
+4. Please find today's work updates below :
+Date : 03/08/2023, FRI
     Redux-Toolkit (RTK)
         - createAction API.
         - createReducer API: 
@@ -60,8 +60,8 @@
     Task in Progress :
         - Doing all the above tasks with Typescript.
 
-
-5. Date : 07/08/2023, MON
+5. Please find today's work updates below :
+Date : 07/08/2023, MON
     Task Done :
         - person List demo using RTK. (https://github.com/ValtureTecocraft/project-demo/tree/Person-List)
         - Todo app demo using RTK. (https://github.com/ValtureTecocraft/project-demo/tree/todo-app)
@@ -70,8 +70,8 @@
         - men-shop home page, product page, cart page, wishlist page.
         - privateRoute, etc
 
-
-6. Date : 08/08/2023, TUE
+6. Please find today's work updates below :
+Date : 08/08/2023, TUE
     Other :
         - Navigating, No match, Nested, Index Route.
         - Dynamic Routes, URL Params, Search Params, Relative Links vs Absolute Links (includes "/...").
@@ -88,8 +88,8 @@
     Task in Progress :
         - MUI Custom Theme
     
-
-7. Date : 09/08/2023, WED
+7. Please find today's work updates below :
+Date : 09/08/2023, WED
     Other :
         - Material UI : 
             - Custom Theme
@@ -106,8 +106,8 @@
     Task in Progress :
         - Form validation using Formik & yup
 
-
-8. Date : 10/08/2023, THU
+8. Please find today's work updates below :
+Date : 10/08/2023, THU
     Other :
         - Formik : 
             - useFormik hook to handle form data and validation.
@@ -127,8 +127,8 @@
     Task in Progress :
         - axios interceptors
 
-
-9. Date : 11/08/2023, FRI
+9. Please find today's work updates below :
+Date : 11/08/2023, FRI
     Other :
         - react-hook-form :
             - Nested object, array, Dynamic Fields.
@@ -146,8 +146,8 @@
     Task in Progress :
         - other hooks implementation
 
-
-10. Date : 14/08/2023, MON
+10. Please find today's work updates below :
+Date : 14/08/2023, MON
     Other :
         - React.js hooks:
             - useCallback, useMemo.
@@ -166,24 +166,24 @@
     Task in Progress :
         - Custom Query Hook
 
-
-11. Date : 15/08/2023, TUE
+11. Please find today's work updates below :
+Date : 15/08/2023, TUE
     Leave
 
-
-12. Date : 16/08/2023, WED
+12. Please find today's work updates below :
+Date : 16/08/2023, WED
     Leave
 
-
-13. Date : 17/08/2023, THU
+13. Please find today's work updates below :
+Date : 17/08/2023, THU
     Leave
 
-
-14. Date : 18/08/2023, FRI
+14. Please find today's work updates below :
+Date : 18/08/2023, FRI
     Leave
 
-
-15. Date : 21/08/2023, MON
+15. Please find today's work updates below :
+Date : 21/08/2023, MON
     Other :
         - React Query :
             - Custom query hook, Query by ID.
@@ -198,8 +198,8 @@
     Task in Progress :
         - CRUD operations using redux or react hook
 
-
-16. Date : 22/08/2023, TUE
+16. Please find today's work updates below :
+Date : 22/08/2023, TUE
     Other :
         - CRUD Operation :
             - add data to list.
@@ -215,8 +215,8 @@
     Task in Progress :
         - e-Commerce demo implementation
 
-
-17. Date : 23/08/2023, WED
+17. Please find today's work updates below :
+Date : 23/08/2023, WED
     Task Done : 
         - Created Navbar, Login page, Signup Page, Product Page.
         - Protected Route, login Authentication with Fake user API.
@@ -233,8 +233,8 @@
             - Sign In with Email and Password.
             - mapping data.
 
-
-18. Date : 24/08/2023, THU
+18. Please find today's work updates below :
+Date : 24/08/2023, THU
     Task Done : 
         - created Task component
         - performed CRUD operation
@@ -249,8 +249,8 @@
             - file uploading
             - Hosting
 
-
-19. Date : 25/08/2023, FRI
+19. Please find today's work updates below :
+Date : 25/08/2023, FRI
     Task Done : 
         - Todo app Bug fix : (https://todo-app-firebase-valture.netlify.app/)
             - Google signup fix.
@@ -264,8 +264,8 @@
     Task in Progress :
         - Login and Home page
 
-
-20. Date : 28/08/2023, MON
+20. Please find today's work updates below :
+Date : 28/08/2023, MON
     Project name : Chat App
     Task Done :
         - Chat App : (https://chat-app-firebase-by-valture.netlify.app/)
@@ -282,8 +282,8 @@
     Task in Progress :
         - Project : E-Commerce Demo (https://e-commerce-by-valture.netlify.app/)
 
-
-21. Date : 29/08/2023, TUE
+21. Please find today's work updates below :
+Date : 29/08/2023, TUE
     Project name : Chat App
     Task Done :
         - Chat App : (https://chat-app-firebase-by-valture.netlify.app/)
@@ -296,8 +296,8 @@
     Task in Progress :
         - Group Chat.
 
-
-22. Date : 31/08/2023, THU
+22. Please find today's work updates below :
+Date : 31/08/2023, THU
     Project name : Chat App
     Task Done : 
         - Scroll behaviour of chats.
@@ -307,8 +307,8 @@
     Task in Progress :
         - Group Chat
 
-
-23. Date : 01/09/2023, FRI
+23. Please find today's work updates below :
+Date : 01/09/2023, FRI
     Project name : Chat App (https://chat-app-firebase-by-valture.netlify.app/)
     Task Done : (https://github.com/ValtureTecocraft/chat-app)
         - Created Collection of Group.
@@ -320,8 +320,8 @@
     Task in Progress :
         - Group Chat messages input and display them. 
 
-
-24. Date : 04/09/2023, MON
+24. Please find today's work updates below :
+Date : 04/09/2023, MON
     Project name : Chat App (https://chat-app-firebase-by-valture.netlify.app/)
     Task Done : (https://github.com/ValtureTecocraft/chat-app)
         - Update messages to groupChats collection 
@@ -333,8 +333,8 @@
     Other : 
         - Docs of Firebase.
 
-
-25. Date : 05/09/2023, TUE
+25. Please find today's work updates below :
+Date : 05/09/2023, TUE
     Project name : E-Commerce Website
     Task Done : 
         - React Project Setup with vite, typescript, tailwind, and mockBee APIs.
@@ -347,8 +347,8 @@
             - Configuration, Customization.
             - Intro to API
 
-
-26. Date : 06/09/2023, WED
+26. Please find today's work updates below :
+Date : 06/09/2023, WED
     Project name : E-Commerce Website ( https://github.com/ValtureTecocraft/my-e-commerce-app )
     Task Done : 
         - Login user with API.
@@ -359,12 +359,12 @@
         - understanding the file Structure to build project
         - created Reducers with Redux Toolkit for Signup and Login
 
-
-27. Date : 08/09/2023, FRI
+27. Please find today's work updates below :
+Date : 08/09/2023, FRI
     LEAVE
 
-
-28. Date : 11/09/2023, MON
+28. Please find today's work updates below :
+Date : 11/09/2023, MON
     Project name : E-Commerce Website
     Task Done :  ( https://github.com/ValtureTecocraft/my-e-commerce-app )
         - Home page UI :
@@ -381,8 +381,8 @@
     Task in Progress : 
         - UI of Cart page and wishList page
 
-
-29. Date : 12/09/2023, TUE
+29. Please find today's work updates below :
+Date : 12/09/2023, TUE
     Project name : E-Commerce Website
     Task Done :
         - conditional AddToCart and WishList Button ( only if user is logged in ).
@@ -396,8 +396,8 @@
 
     Half day
 
-
-30. Date : 13/09/2023, WED
+30. Please find today's work updates below :
+Date : 13/09/2023, WED
     Project Name : BeeDee
     Task Done :
         - BeeDee-280 :
@@ -409,8 +409,8 @@
     Other : 
         - Exploring React-Native. 
 
-
-31. Date : 14/09/2023, THU
+31. Please find today's work updates below :
+Date : 14/09/2023, THU
     Project Name : BeeDee
     Task Done :
         - BeeDee-167 : ( comment resolved )
@@ -422,8 +422,8 @@
             - Styling (Inline & StyleSheet API), Multiple Styles ( use styles in Array. ).
             - Layout and Flexbox.
 
-
-32. Date : 15/09/2023, FRI
+32. Please find today's work updates below :
+Date : 15/09/2023, FRI
     Other : 
         - Exploring React-Native :
             - Flexbox, Positioning, Dynamic UI ( Dimensions API ), SafeAreaView.
@@ -431,8 +431,8 @@
             - PokemonCard App 
             - TextInput ( Props, Multiline )
 
-
-33. Date : 18/09/2023, MON
+33. Please find today's work updates below :
+Date : 18/09/2023, MON
     Task Done :
         - todo App (project setup) : Registration screen
     Other : 
@@ -440,8 +440,8 @@
             - Switch, TextInput ( secureTextEntry ).
             - Login Form, Navigation, route params
 
-
-34. Date : 19/09/2023, TUE
+34. Please find today's work updates below :
+Date : 19/09/2023, TUE
     Project Name : BeeDee
     Task Done :
         - BeeDee-202 :
@@ -451,8 +451,8 @@
         - BeeDee-293 :
             - Splash Screen Icon and App icon updated ( IOS & Android )
 
-
-35. Date : 20/09/2023, WED
+35. Please find today's work updates below :
+Date : 20/09/2023, WED
     Project Name : BeeDee
     Task Done :
         - BeeDee-293 :
@@ -468,8 +468,8 @@
         - BeeDee-328 :
             - Loading text change while loading Profile.
 
-
-36. Date : 21/09/2023, THU
+36. Please find today's work updates below :
+Date : 21/09/2023, THU
     Project Name : BeeDee
     Task Done :
         - BeeDee-79 ( Comment ) :
@@ -483,15 +483,15 @@
         - BeeDee-308 :
             - Hide 0% complete while loading profile menu.
 
-
-37. Date : 22/09/2023, FRI
+37. Please find today's work updates below :
+Date : 22/09/2023, FRI
     Project Name : BeeDee
     Task Done :
         - BeeDee-117 :
             - Add screen after enabling notification that asks if they want to start swiping or complete profile.
 
-
-38. Date : 25/09/2023, MON
+38. Please find today's work updates below :
+Date : 25/09/2023, MON
     Project Name : BeeDee
     Task Done :
         - BeeDee-202 :
@@ -511,8 +511,8 @@
         - BeeDee-345 :
             - make country code clickable in signup/login page.
 
-
-39. Date : 26/09/2023, TUE
+39. Please find today's work updates below :
+Date : 26/09/2023, TUE
     Project Name : BeeDee
     Task Done :
     - BEEDEE-202 : 
@@ -524,8 +524,8 @@
     - BEEDEE-321 : 
         - Allowing user to set pronouns to no-pronouns.
 
-
-40. Date : 27/09/2023, WED
+40. Please find today's work updates below :
+Date : 27/09/2023, WED
     Project Name : BeeDee
 
     Fixed git comment 
@@ -551,8 +551,8 @@
             - “Preferences” to “Search Preferences”
         BEEDEE-387 : 335-follow-up load correct URL in web-view
 
-
-41. Date : 29/09/2023, FRI
+41. Please find today's work updates below :
+Date : 29/09/2023, FRI
     Project Name : BeeDee
 
     Fixed git comment 
@@ -566,8 +566,8 @@
         BEEDEE-388 : Should pickup new test ID from web-view ( added dependency to useEffect )
         BEEDEE-404 : removed T&C from buy premium screen
 
-
-42. Date : 02/10/2023, MON
+42. Please find today's work updates below :
+Date : 02/10/2023, MON
     Project Name : BeeDee
 
     Fixed git comment : 
@@ -578,8 +578,8 @@
         BEEDEE-381 : tried to catch the error
         BEEDEE-380 : asked client the requirement
 
-
-43. Date : 03/10/2023, TUE
+43. Please find today's work updates below :
+Date : 03/10/2023, TUE
     Project Name : BeeDee
 
     Completed Task :
@@ -589,8 +589,8 @@
     Other : 
         BEEDEE-384 : debugged the code and found that region was set according to user current location. Client wants to set region according to country selected while signing up.
 
-
-44. Date : 04/10/2023, WED
+44. Please find today's work updates below :
+Date : 04/10/2023, WED
     Project Name : BeeDee
 
     Fixed git comment : 
@@ -611,8 +611,8 @@
     Other : 
         BEEDEE-336 : checked if the splash screen is applied properly - still not working properly.
 
-
-45. Date : 05/10/2023, THU
+45. Please find today's work updates below :
+Date : 05/10/2023, THU
     Project Name : BeeDee
 
     Fixed git comment : 
@@ -629,8 +629,8 @@
     Running Task :
         BEEDEE-383 : finding bug userData is set twice.
 
-
-46. Date : 06/10/2023, FRI
+46. Please find today's work updates below :
+Date : 06/10/2023, FRI
     Project Name : BeeDee
 
     Fixed git comment : 
@@ -638,8 +638,8 @@
         BEEDEE-398 ( comment ) : made image delete function response regardless of whether the API returned OK or error or empty array.
         BEEDEE-440 ( comment ) : Checked if the app crashes while deleting account & added toast message for Success and Error.
 
-
-47. Date : 09/10/2023, MON
+47. Please find today's work updates below :
+Date : 09/10/2023, MON
     Project Name : BeeDee
 
     Completed Task :
@@ -655,8 +655,8 @@
             - made that bar touchable to open BDSM Details screen.
             - changed the color scheme for BSDm progress bar.
 
-
-48. Date : 10/10/2023, TUE
+48. Please find today's work updates below :
+Date : 10/10/2023, TUE
     Project Name : BeeDee
 
     Fixed git comment : 
@@ -673,8 +673,8 @@
     Running Task :
         BEEDEE-467 : update title showing after clicking on BDSMTest compatibility bar on discover screen.
 
-
-49. Date : 11/10/2023, WED
+49. Please find today's work updates below :
+Date : 11/10/2023, WED
     Project Name : BeeDee
 
     Completed Task :
@@ -687,8 +687,8 @@
     Running Task :
         BEEDEE-374 : unit conversion.
             
-
-50. Date : 12/10/2023, THU
+50. Please find today's work updates below :
+Date : 12/10/2023, THU
     Project Name : BeeDee
 
     Completed Task :
@@ -699,8 +699,8 @@
     Running Task :
         BEEDEE-264 : make notification icon large for android.
 
-
-51. Date : 13/10/2023, FRI
+51. Please find today's work updates below :
+Date : 13/10/2023, FRI
     Project Name : BeeDee
 
     Fixed git comment : 
@@ -709,8 +709,8 @@
     Completed Task :
         BEEDEE-381 : setup new API end-point for resend-code.
 
-
-52. Date : 16/10/2023, MON
+52. Please find today's work updates below :
+Date : 16/10/2023, MON
     Project Name : BeeDee
 
     Running Task :
@@ -720,8 +720,8 @@
             - Tried multiple time integrating RNBootSplash.
             - Tested on different Android version devices.
 
-
-53. Date : 17/10/2023, TUE
+53. Please find today's work updates below :
+Date : 17/10/2023, TUE
     Project Name : BeeDee
 
     Completed Task :
@@ -734,8 +734,8 @@
             - Changing and configuring notification icon on Android.
             - facing issues while sending messages.
 
-
-54. Date : 18/10/2023, WED
+54. Please find today's work updates below :
+Date : 18/10/2023, WED
     Project Name : BeeDee
 
     Completed Task :
@@ -745,8 +745,8 @@
             - applied logic to show notification while App is in Foreground or Background or Killed.
             - checked on different android devices.
 
-
-55. Date : 19/10/2023, THU
+55. Please find today's work updates below :
+Date : 19/10/2023, THU
     Project Name : BeeDee
 
     Completed Task :
@@ -761,9 +761,8 @@
     Other : 
         BEEDEE- : .
 
-
-Please find today's work updates below:        
-56. Date : 20/10/2023, FRI
+56. Please find today's work updates below :    
+Date : 20/10/2023, FRI
     Project Name : BeeDee
 
     Running Task :
@@ -776,26 +775,248 @@ Please find today's work updates below:
         - Exploring WebSocket (Socket.io).
 
 
+57. Please find today's work updates below :
+Date : 23/10/2023, MON
+Project Name : BeeDee
+
+Fixed git comment : 
+    BEEDEE-264 : Fixed notification showing twice.
+    BEEDEE-138 : 
+        - made app version hardcoded and imported where needed.
+        - made global state to check if the app is latest
+        - added parameter in API's to get version status.
+        - changed state name from isLatest to isVersionSupported.
+
+Completed Task :
+    BEEDEE-476 : 
+        - created storage to store lastSync.
+        - added condition in api comparing lastSync.
+
+Running Task :
+    BEEDEE-476 : 
+        - create async storage for both matches and conversations
+
+
+58. Please find today's work updates below :
+Date : 24/10/2023, TUE
+Project Name : BeeDee
+
+Fixed git comment : 
+    BEEDEE-138 : 
+        - added response.error in condition.
+        - versionStatus text changed.
+
+Completed Task :
+    BEEDEE-467 : 
+        - created async storage for both matches and conversations.
+        - merge since API response in storage of matches & conversations.
+        - Testing API with since
+        - store timestamp from response in storage.
+
+Running Task :
+    BEEDEE-467 : getting response but not able to map in real time.
+
+
+59. Please find today's work updates below :
+Date : 25/10/2023, WED
+Project Name : BeeDee
+
+Running Task :
+    BEEDEE-467 : 
+        - storing chats and matches in local storage.
+        - working on merging updated data with existing data
+
+
+60. Please find today's work updates below :
+Date : 26/10/2023, THU
+Project Name : BeeDee
+
+Completed Task :
+    BEEDEE-496 : When Discover returns no profiles, message is displayed on top of loading message.
+    BEEDEE-495 : Limit "fullName" (firstName) length to 32 in frontend.
+
+Running Task :
+    BEEDEE- 476: update conversation.
+
+
+61. Please find today's work updates below :
+Date : 27/10/2023, THU
+Project Name : BeeDee
+
+Completed Task :
+    BEEDEE-476 : successfully managed to store and merge updated chats.
+
+Running Task :
+    BEEDEE-476 : manage the new matches.
+
+Other : 
+    BEEDEE-476 : created and deleted users for testing.
+
+
+62. Please find today's work updates below :
+Date : 30/10/2023, MON
+Project Name : BeeDee
+
+Completed Task :
+    BEEDEE-476 : 
+      - now able to update matchUser.
+      - fixed the issue with merging chats.
+
+Running Task :
+    BEEDEE-476 : 
+      - waiting for client to test the code.
+      - implement web-socket.
+
+
+63. Please find today's work updates below :
+Date : 31/10/2023, TUE
+Project Name : BeeDee
+
+Completed Task :
+    BEEDEE-476 : 
+      - now able to Unmatch & Delete and update that in localStorage.
+    BEEDEE-495 : Limit "fullName" (firstName) length to 32 in frontend.
+    BEEDEE-496 : message is displayed on top of loading message.
+    BEEDEE-316 : Make the minimum and maximum discover distance dependent on units.
+
+
+64. Please find today's work updates below :
+Date : 01/11/2023, WED
+Project Name : BeeDee
+
+Completed Task :
+    BEEDEE-476 : 
+      - testing websocket url provided by client.
+      - tested the other open source websocket with backend
+
+Running Task :
+    BEEDEE-291 : Have the frontend process new incoming messages and matches from the websocket, and display incoming messages in the UI.
+
+
+65. Please find today's work updates below :
+Date : 02/11/2023, THU
+Project Name : BeeDee
+
+Completed Task :
+    BEEDEE-291 : created UI for new incoming messages and matches from the websocket, and display incoming messages.
+    BEEDEE-60 : added webView in setting for contact, privacy, TNC.
+    BEEDEE-488 : during sign-up flow toast should disappear in Add Photos & Add Bio.
+    BEEDEE-365 : updated OpenTo data and Styling same as Gender.
+
+
+65. Please find today's work updates below :
+Date : 03/11/2023, FRI
+Project Name : BeeDee
+
+Fixed git comment : 
+    BEEDEE-60 : Added WebView in premium, unsubscribe & itsMatch screen for privacy and tnc.
+    BEEDEE-488 : disabled the next button in bio screen while input field is empty.
+
+Completed Task :
+    BEEDEE-431 : fixed wording markup alignment on search preference screen.
+    BEEDEE-517 : added webView in moreInfo of BDSM Details screen and updated the URL.
+    BEEDEE-423 : fixed the height of chat screen when there is no new matches and no chats.
+
+    Made FitWith Login page Demo with validation and created zip file for client
+
+
+66. Please find today's work updates below :
+Date : 06/11/2023, MON
+Project Name : BeeDee
+
+Fixed git comment : 
+    BEEDEE-517 : Added webview to profileView.
+
+Completed Task :
+    BEEDEE-550 : fetch prompts from beedee.com/prompts.json and update the code accordingly.
+    BEEDEE-353 : 
+        - added read more button if the height of bio is more than half of the screen in MatchedProfile, ProfileView & Home.
+        - added read more button if the height of prompt is more than half of the screen made changes in BioCard Component.
+
+Running Task :
+    BEEDEE-137 : Add ?appVersion= to every API call.
+
+
+67. Please find today's work updates below :
+Date : 07/10/2023, TUE
+Project Name : BeeDee
+
+Fixed git comment : 
+    BEEDEE-353 : 
+        - removed comment from home screen.
+        - fixed the UI issue in Home screen and profile view
+        - reduced the height to show the content of Bio & prompts
+
+Completed Task :
+    BEEDEE-137 : 
+        - added version api to all api calls.
+        - updated the version displayed in the 3rd tab(profile component tab).
+    BEEDEE-521 : 
+        - changed keyboard flavour on iOS during phone number entering.
+        - pressing done should go directly to next page.
+
+Running Task :
+    BEEDEE-524 : make Go button actually work on bio screen.
+
+
+68. Please find today's work updates below :
+Date : 08/11/2023, WED
+Project Name : BeeDee
+
+Completed Task :
+    BEEDEE-524 : make Go button actually work on bio screen.
+    BEEDEE-569 : 
+        - Added new FAQs screen same as Tips.
+        - Populated the FAQs & Tips with provide URL.
+
+Running Task :
+    BEEDEE-512 : get config from beedee.com/config.json.
+
+
+69. Please find today's work updates below :
+Date : 09/11/2023, THU
+Project Name : BeeDee
+
+Completed Task :
+    BEEDEE-569 : added new icon for FAQ.
+    BEEDEE-512 : config form new API.
+    BEEDEE-524 : handle input field in signup flow.
+    BEEDEE-567 : Vertically center the empty conversation label.
+    BEEDEE-535 : Added two UI Labels.
+    BEEDEE-525 : Show square main picture in Preview Profile.
+
+
+70. Please find today's work updates below :
+Date : 10/11/2023, FRI
+Project Name : BeeDee
+
+Completed Task :
+    BEEDEE-577 : start each conversation with messaging guidelines.
 
 
 
 
 
-Please find today's work updates below:
-45. Date : 04/10/2023, WED
-    Project Name : BeeDee
 
-    Fixed git comment : 
-        BEEDEE- : .
 
-    Completed Task :
-        BEEDEE- : .
 
-    Running Task :
-        BEEDEE- : .
 
-    Other : 
-        BEEDEE- : .
+
+45. Please find today's work updates below :
+Date : 04/11/2023, WED
+Project Name : BeeDee
+
+Fixed git comment : 
+    BEEDEE- : .
+
+Completed Task :
+    BEEDEE- : .
+
+Running Task :
+    BEEDEE- : .
+
+Other : 
+    BEEDEE- : .
 
 
 
